@@ -6,7 +6,7 @@
    * [GPS Speed and Distance Monitor](gps_speed_and_distance_monitor.md)
    * [Cadence/Stroke-Rate Sensor](cadence_sensor.md)
    * [Power Meters](power_meters.md)
-* [Metric Descriptions](metric_descriptions.md)
+* [Power Meters In-Depth](metric_descriptions.md)
    * [Power](power.md)
    * [Power Balance](power_balance.md)
    * [Cadence](cadence.md)
