@@ -10,6 +10,7 @@
    * [Power](power.md)
    * [Power Balance](power_balance.md)
    * [Cadence](cadence.md)
+   * Force
 * [Control Training Intensities](control_training_intensities.md)
    * [Finding "Threshold Power"](finding_threshold_power.md)
    * [Setting Training Zones](setting_training_zones.md)
