@@ -3,5 +3,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 
 .book.font-family-1 {
-   font-family: 'Roboto',serif;
+  font-family: 'Roboto',serif;
+}
+
+.book .book-header, .book .book-summary {
+  font-family: 'Roboto',serif;
 }
