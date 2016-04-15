@@ -2,11 +2,6 @@
 
 To get the most out of training/racing with a power meter it is important that you understand how the device functions, and more importantly, what factors contribute to the data you observe on water or during post analysis.
 
-###Power
-
-
-
-
 ###Cadence
 Cadence is a measure of stroke rate, or the frequency at which the athlete is paddling. Cadence data is delivered in single strokes per minute.
 Cadence is determined by measuring the time elapsed between the catch of each stroke. A low force threshold has been set so that the trigger for the stroke “start” is as representative of the blade entry as possible.
