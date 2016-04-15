@@ -1,2 +1,5 @@
 # Development of a model technique
 
+Standardization of technique may be desired within team/club. The benefit will be team-boat compatibility and standardization of coaching techniques and strength exercises. Athletes will strive to develop a technique (force and power signature) that is compatible with potential team boat combinations.
+
+The model technique can be based on the force and power profiles of a model athlete, such as an Olympic medalist, or derived by the coach. It is important that the coach defines the model technique, since it is the coach that prescribes the specific training based upon that technique. As an example; coaches often prescribe specific strength training exercises which correspond to specific parts of the kayak stroke. It is important that the athlete's technique fits with the specific training goals of the program that they are training under. Analysis of the high speed force and power curves will assist with the development of the model technique.
