@@ -23,5 +23,5 @@
    * [Power profiling](power_profiling.md)
 * Unlocking Potential
    * [Developing a more efficient stroke](developing_a_more_efficient_stroke.md)
-   * Finding the optimum cadence
+   * [Finding the optimum cadence](finding_the_optimum_cadence.md)
 
