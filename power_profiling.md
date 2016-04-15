@@ -25,3 +25,5 @@ Sprint paddlers, such as those who race 200m, can develop a profile with benchma
 |30s Max Power||||
 |1min Max Power||||
 |3min Max Power||||
+
+Profiling in this manner is nothing new. Time Trials over a similar range of distances will allow you to identify areas of strength and weakness also. However, the benefit of profiling using power is that you can carry these tests regardless of the weather conditions, boat setup. You don’t require a perfect course, unlike TT benchmarking which requires ideal conditions for times to be comparable. You can easily incorporate these benchmarking sessions into your training routine and have regular, accurate and comparable data.
