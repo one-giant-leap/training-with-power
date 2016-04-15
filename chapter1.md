@@ -10,6 +10,6 @@ Power balance is handy for identifying technique imbalances, weaknesses and padd
 ###Cadence
 Cadence is a measure of stroke-rate, or the frequency at which the athlete is paddling. Cadence data is shown in single strokes per minute, and it is one of the many variables that determine your level of performance and efficiency. 
 One Giant Leap Power Meters can help you find your optimum cadence - the cadence at which you can maintain the highest possible average power. 
-###Force (high speed data)
+###Force
 The force values are shown in the form of pushing hand force and pulling hand force. 
 These values represent the force applied by the pushing hand (pushing during the stroke) and the pulling hand (pulling during the stroke). For example, during the stroke that occurs on the left side of the boat, the pushing hand force represents the right hand, and the pulling hand force represents the left hand. 
