@@ -1,20 +1,20 @@
 # Training to improve "Endurance"
 
-##Suggested sessions to improve "Endurance"
+**Suggested sessions to improve "Endurance":**
 
-Efforts of 90 minutes at Z1 / Z2
+Efforts of 90 minutes @ Zone 1 / Zone 2
 * Maximum of 2 efforts per session
 * Maximum of 10 efforts per week
 
-Efforts of 60 minutes at Z2
+Efforts of 60 minutes @ Zone 2
 * Maximum of 2 efforts per session
 * Maximum of 12 efforts per week
 
-Efforts of 30 minutes at Z3 (**low**)
+Efforts of 30 minutes @ Zone 3 (**low**)
 * Maximum of 3 efforts per session
 * Maximum 15 per week
 
-Efforts of 20 minutes at Z3 (**high**)
+Efforts of 20 minutes @ Zone 3 (**high**)
 * Maximum of 4 efforts per session
 * Maximum of 16 efforts per week
 
