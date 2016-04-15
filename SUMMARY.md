@@ -20,4 +20,5 @@
    * [Training to improve "30s/1min Power"](training_to_improve_30s1min_power.md)
 * [Fitness Tracking](fitness_tracking.md)
    * [Tracking progress of "Threshold Power"](tracking_progress_of_threshold_power.md)
+   * Power Profiling
 
