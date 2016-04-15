@@ -1,6 +1,9 @@
 /* CSS for website */
 
-@import url(https://fonts.googleapis.com/css?family=Roboto);
+@font-face {
+    font-family: 'Roboto';
+    src: url(https://fonts.googleapis.com/css?family=Roboto);
+}
 
 body {
   font-family: 'Roboto';
