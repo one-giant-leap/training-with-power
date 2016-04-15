@@ -1,6 +1,6 @@
 # Finding "Threshold Power"
 
-The concept of Threshold Power forms the basis for power based training. Training zones are set relative to Threshold Power. Threshold Power output represents the exercise intensity at which lactate begins to accumulate in a person's blood - that is, their lactate threshold (LT)
+The concept of Threshold Power forms the basis for power based training. Training zones are set relative to Threshold Power. Threshold Power output represents the exercise intensity at which lactate begins to accumulate in a person's blood (i.e. lactate threshold).
 
 The metabolic strain experienced when paddling is dependent upon the athletes intensity relative to their lactate threshold intensity. For this reason, an athlete's Threshold Power Output provides a sound reference point around which a training program and training zones can be structured.
 
