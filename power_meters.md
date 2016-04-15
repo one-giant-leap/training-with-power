@@ -12,3 +12,5 @@ Training with power overcomes the weaknesses of the other performance measuremen
 | Allows you to control and monitor training intensities by measuring real-time intensity, without lag ||
 | Power meters are not affected by changes in equipment e.g. you do not need to re-evaluate power targets if you switch your blades ||
 | Provides precise stroke-by-stroke timing analysis - useful for synchronization in team boats ||
+
+Read on to discover just how training with power will give you the competitive edge you need.
