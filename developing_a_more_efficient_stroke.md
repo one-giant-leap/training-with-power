@@ -6,7 +6,7 @@ The sole metric available to paddlers to gauge the rate of energy transfer to th
 
 ###Method
 
-Paddle at a steady power output – choose Threshold Power for distance paddlers or race power output for sprint paddlers.
+Paddle at a steady power output. Choose Threshold Power for distance paddlers or race power output for sprint paddlers.
 Refine technique to maximize speed, but maintain the same level of power output. This will represent a technique with greater efficiency since more of the athlete's energy output is converted into motion.
 
 ###Alternative Method
