@@ -7,6 +7,7 @@
    * [Cadence/Stroke-Rate Sensor](cadence_sensor.md)
    * [Power Meters](power_meters.md)
 * [Control Training Intensities](control_training_intensities.md)
+   * Finding "Threshold Power"
 * [Metric Descriptions](metric_descriptions.md)
    * [Power](power.md)
    * [Power Balance](power_balance.md)
