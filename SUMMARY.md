@@ -4,7 +4,7 @@
 * [Metric Descriptions](how_do_we_calculate_power.md)
    * [Power](power.md)
    * [Power Balance](power_balance.md)
-   * Cadence
+   * [Cadence](cadence.md)
 * [Why Train With Power?](why_train_with_power.md)
    * [Heart Rate Monitors](heart_rate_monitors.md)
    * [GPS Speed and Distance Monitor](gps_speed_and_distance_monitor.md)
