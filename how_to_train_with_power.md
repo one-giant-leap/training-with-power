@@ -26,4 +26,8 @@ The following test outlines a method to find out an athlete's Threshold Power, u
 6. 20-minute time trial effort (all out effort but keep in control. Hard but steady, you don't want to die before the end)
 7. 10 to 15 minute cool down
 
+After this effort has been completed, upload your power meter data and check out your average power figure for the 20-minute time trial. Once you have the average power, subtract 5% from it. The result is your threshold power.
+
+$$Power = Power_Aver * 0.95$$
+
 
