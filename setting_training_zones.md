@@ -10,6 +10,6 @@ With Threshold Power (TP) established, the following zones can be set for power-
 * **Zone 6:** Anaerobic Capacity = 121-150% of TP
 * **Zone 7:** Neuromuscular Power = maximum effort
 
-With power based training, it is important to keep track of Threshold Power (TP), and make sure it is current. TP changes relatively quickly and expect TP to change about every four to eight weeks as fitness develops. Monitoring TP also provides excellent insight into fitness development.
+We’ll cover exactly how to use these training zones soon, in the ‘Training Guide’ section.
 
-Refer to the 'Training Guide' section for suggestions on training using the 7 zone power-based training method.
+With power based training, it is important to keep track of Threshold Power (TP), and make sure it is current. TP changes relatively quickly and expect TP to change about every four to eight weeks as fitness develops. Monitoring TP also provides excellent insight into fitness development.
