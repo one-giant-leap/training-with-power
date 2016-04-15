@@ -1,8 +1,8 @@
 # Power Meters
 
-Training with power overcomes the weaknesses of the other performance measurement devices. Power meters measure the power-output, force and stroke-rate of a paddler, and they are the only device which will provide you with a direct measurement of the exact thing that governs performance - energy output.
+Training with power overcomes the weaknesses of the other performance measurement devices. Power meters measure the power-output, force and stroke-rate of a paddler. Power meters are the only devices which provide you with a direct measurement of your energy output. Energy output is the exact thing that governs performance.
 
-Because power is unaffected by external factors such as environmental conditions, you are able to track and compare your performances knowing that the data you're viewing is due to effort alone. This gives you incredibly powerful information which (among other benefits) will allow you to find your optimal stroke-rate, develop your most efficient technique, set training levels and track your fitness development.
+With a power meter you are able to track and compare your performances knowing that the data you're viewing is due to effort alone. This is because Power is unaffected by external factors such as environmental conditions. This gives you incredibly powerful information which will allow you to find your optimal stroke-rate; develop your most efficient technique; set training levels and track your fitness development.
 
 | Advantages | Disadvantages |
 | -- | -- |
