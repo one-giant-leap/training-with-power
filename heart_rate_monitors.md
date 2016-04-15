@@ -1,6 +1,8 @@
 # Heart Rate Monitors
 
-Heart rate monitors have been in use for many decades. They were really one of the first devices that the everyday athlete could use to measure their performance. Measuring heart rate is still popular today and because they have been in use for so long, there are numerous scientific studies available which relate heart rate to intensity and training zone setting. This device certainly has its place in a well balanced training regime.
+Heart rate monitors have been in use for since the mid-1980s. They were one of the first devices that the everyday athlete could use to measure their performance.
+
+Measuring heart rate is still popular today. Because they have been in use for so long, numerous scientific studies have been undertaken relating heart rate to intensity and training zone setting. This device certainly has its place in a well balanced training regime.
 
 Heart rate monitoring is an effective method of gauging training intensities. It does however have a number of limitations which require careful management. A key point is that a heart rate monitor doesn't give you a direct measurement of intensity. Instead, a heart rate monitor measures your body's response to intensity. _This is a key distinction to make._
 
