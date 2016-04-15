@@ -7,8 +7,8 @@ Efforts of 90 minutes at *Z1* / *Z2*
 * Maximum of 10 efforts per week
 
 Efforts of 60 minutes at Z2
-*Maximum of 2 efforts per session
-*Maximum of 12 efforts per week
+* Maximum of 2 efforts per session
+* Maximum of 12 efforts per week
 
 Efforts of 30 minutes at Z3 (low)
 * Maximum of 3 efforts per session
