@@ -6,6 +6,7 @@
    * [GPS Speed and Distance Monitor](gps_speed_and_distance_monitor.md)
    * [Cadence/Stroke-Rate Sensor](cadence_sensor.md)
    * [Power Meters](power_meters.md)
+* [Control Training Intensities](control_training_intensities.md)
 * [Metric Descriptions](metric_descriptions.md)
    * [Power](power.md)
    * [Power Balance](power_balance.md)
@@ -17,5 +18,4 @@
    * [Training to improve Threshold Power](training_to_improve_threshold_power.md)
    * [Training to improve "4min Power"](training_to_improve_4min_power.md)
    * [Training to improve "30s/1min Power"](training_to_improve_30s1min_power.md)
-* [Control Training Intensities](control_training_intensities.md)
 
