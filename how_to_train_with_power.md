@@ -15,3 +15,15 @@ The concept of threshold power forms the basis for training with power, as all t
 > Threshold Power Output represents the exercise intensity at which lactate begins to accumulate in a person's blood - that is, their lactate threshold (LT). 
 The metabolic strain experienced when paddling is dependent upon the athletes intensity relative to their lactate threshold intensity. For this reason, an athlete's Threshold Power Output provides a sound reference point around which a training program and training zones can be structured.
 
+The following test outlines a method to find out an athlete's Threshold Power, using a power meter. With a threshold power test, we're trying to establish the power number that corresponds to the lactate threshold of the paddler. The test involves doing an all-out 20 minute time trial effort.
+
+###The Threshold Power Test
+1. 20 minutes easy warm up
+2. 3 x 1-minute efforts with a minute rest between (80-90 spm)
+3. 5 minutes easy warm up continued
+4. 5 minutes hard (but not to the point that you can't complete the effort)
+5. 10 minutes easy warm up continued
+6. 20-minute time trial effort (all out effort but keep in control. Hard but steady, you don't want to die before the end)
+7. 10 to 15 minute cool down
+
+
