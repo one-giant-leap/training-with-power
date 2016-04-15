@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Metric Descriptions](how_do_we_calculate_power.md)
+* [Metric Descriptions](metric_descriptions.md)
    * [Power](power.md)
    * [Power Balance](power_balance.md)
    * [Cadence](cadence.md)
