@@ -8,9 +8,7 @@ Heart rate monitoring is an effective method of gauging training intensities. It
 
 _This is a key distinction to make._
 
-
 ---
-
 
 | Advantages | Disadvantages |
 | -- | -- |
