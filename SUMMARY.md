@@ -29,5 +29,5 @@
 * [High Speed Data Analysis (Single Athlete)](high_speed_data_analysis_single_athlete.md)
    * [Left stroke and right stroke analysis](left_stroke_and_right_stroke_analysis.md)
    * [Identifying good and bad technique](identifying_good_and_bad_technique.md)
-   * Development of a model technique
+   * [Development of a model technique](development_of_a_model_technique.md)
 
