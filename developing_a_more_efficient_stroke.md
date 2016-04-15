@@ -1,6 +1,6 @@
 # Developing a more efficient stroke
 
-The idea here is to develop a technique that allows the athlete to transfer as much of their power output to the boat as possible. In other words, to convert as much of your energy output into kinetic energy.
+The idea here is to develop a technique that allows the athlete to transfer as much of their power output to the boat as possible. In other words, to convert as much of the athlete's energy output into kinetic energy.
 
 The only metric available to paddlers that allows them to gauge the rate of energy transfer to the boat is boat speed. Boat speed is influenced by many external factors such as water current, wind speed, water density (salinity accounts for x% increase in buoyancy), water temperature etc. When carrying out tests to develop an efficient stroke, take care to ensure that boat speed is comparable between sessions.
 
