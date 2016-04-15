@@ -1,6 +1,6 @@
 # Training to improve "Endurance"
 
-##Suggested sessions to improve "endurance"
+##Suggested sessions to improve "Endurance"
 
 Efforts of 90 minutes at Z1 / Z2
 * Maximum of 2 efforts per session
