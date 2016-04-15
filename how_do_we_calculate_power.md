@@ -3,11 +3,7 @@
 To get the most out of training/racing with a power meter it is important that you understand how the device functions, and more importantly, what factors contribute to the data you observe on water or during post analysis.
 
 ###Power
-A power meter measures the power applied to the paddle by the athlete. By doing this, the power value represents the energy output rate of the paddler (Watts), and provides a direct measure of the athlete's intensity.
 
-Understanding that the power value is measured in this way is important: The power value includes both the efficient and in-efficient power generated in a single value. Not all of the power applied to the paddle will result in forward propulsion of the boat. A higher power value does not guarantee increased boat speed.
-
-The primary use of a power meter, in a sporting application, is to measure the intensity of the athlete, in this case, the rate of energy production of the paddler. This direct measure of intensity is important for setting training levels, tracking fitness development, improving efficiency and race planning. Refer to the other sections of this guide for further explanation of these uses.
 
 
 
