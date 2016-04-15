@@ -19,7 +19,7 @@ At the same time, the athlete will continue to profile themselves on the other d
 
 Sprint paddlers, such as those who race 200m, can develop a profile with benchmark tests of shorter duration (shown below).
 
-|Benchmark||||
+|BENCHMARK||||
 | -- | -- |
 |10s Max Power||||
 |30s Max Power||||
