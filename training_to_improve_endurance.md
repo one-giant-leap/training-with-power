@@ -1,4 +1,4 @@
-# Training to improve Endurance
+# Training to improve "Endurance"
 
 ##Suggested sessions to improve endurance
 
