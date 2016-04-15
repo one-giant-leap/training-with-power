@@ -14,7 +14,6 @@ This guide will provide you with everything you need to know about training with
 ## About One Giant Leap
 One Giant Leap are the leading developers of paddling technology. We specialise in developing technology that provides real-time and post-analysis performance feedback for kayakers, canoeists and stand-up paddleboarders. 
 It is our goal to enable paddlers to have the same level of performance technology that athletes such as cyclists have had available to them for years. We have done this by inventing the world's first power meters for kayaking, canoe and stand-up paddleboarding (SUP), as well as developing a performance analysis app specifically for paddlers. 
-We strive for to be the best at what we do, so that you can be the best at what you do.
-I believe training with power and getting live feedback is an amazing tool to help develop a better technique and to train more efficiently. This type of information will help develop world champions.
+We strive to be the best at what we do, so that you can be the best at what you do.
 
 
