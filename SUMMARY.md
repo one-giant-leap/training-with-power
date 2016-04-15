@@ -9,4 +9,5 @@
    * [Cadence/Stroke-Rate Sensor](cadence_sensor.md)
    * [Power Meters](power_meters.md)
 * [How to Train with Power](how_to_train_with_power.md)
+* Setting Training Zones
 
