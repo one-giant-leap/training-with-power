@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Why Train With Power?](why_train_with_power.md)
+* [Performance Measurement Technology](why_train_with_power.md)
    * [Heart Rate Monitors](heart_rate_monitors.md)
    * [GPS Speed and Distance Monitor](gps_speed_and_distance_monitor.md)
    * [Cadence/Stroke-Rate Sensor](cadence_sensor.md)
