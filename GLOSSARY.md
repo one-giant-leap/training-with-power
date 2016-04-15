@@ -1,11 +1,10 @@
 # Glossary
 
-## spm
+##spm
 
 strokes per minute
 
 ##TP
-
 Threshold Power Output represents the exercise intensity at which lactate begins to accumulate in a person's blood - that is, their lactate threshold (LT).
 
 ##Z1
