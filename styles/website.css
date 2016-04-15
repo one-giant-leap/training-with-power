@@ -1,10 +1,7 @@
 /* CSS for website */
 
-@font-face {
-    font-family: Roboto;
-    src: url(https://fonts.googleapis.com/css?family=Roboto);
-}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
-.book.font-family-1 {
-  font-family: "Roboto";
+body{
+   font-family: 'Open Sans',serif;
 }
