@@ -1,4 +1,5 @@
 # Cadence/Stroke-Rate Sensor
+
 In days gone by the only way to measure your cadence was to start a stopwatch and count the number of strokes performed over a given distance. Technology has since evolved to give us a more efficient means of measuring stroke-rate.
 
 As with the previous two devices covered here, it is important to remember that cadence is just one part of the training picture. For example if your aim is to develop a more efficient stroke through use of a cadence sensor (by keeping stroke-rate steady but trying to increase speed), then you need to ensure that your speed is being accurately tracked as well. Likewise this device will be at its most useful if factors such as environmental conditions and equipment are managed.
