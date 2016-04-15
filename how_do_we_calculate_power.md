@@ -9,9 +9,7 @@ Understanding that the power value is measured in this way is important: The pow
 
 The primary use of a power meter, in a sporting application, is to measure the intensity of the athlete, in this case, the rate of energy production of the paddler. This direct measure of intensity is important for setting training levels, tracking fitness development, improving efficiency and race planning. Refer to the other sections of this guide for further explanation of these uses.
 
-The power value shown in real time represents the average power generated during the entire stroke, not just the drive phase of the stroke. This includes the glide phase, where the paddle isn't in the water. The stroke is defined as the event that occurs between catches (stroke = catch + drive + glide). It is important that the glide phase is taken into account when calculating the power value. The power value is a measure of intensity (energy output per second) and the glide time contributes to the overall level of intensity. For example, paddling with a long glide (paddle is out of the water for a long duration) requires less intensity than paddling with a shorter glide time.
 
-The beauty of a power meter is that it takes a direct measurement of the exact thing that governs performance – energy output. The science is simple: The more energy output, the faster the boat can go. The challenge for the athlete is to increase their fitness and strength such that they improve their energy output and to convert as much of the energy into forward motion. A power meter has been designed specifically as the tool that will help achieve these goals.
 
 ###Cadence
 Cadence is a measure of stroke rate, or the frequency at which the athlete is paddling. Cadence data is delivered in single strokes per minute.
