@@ -19,4 +19,4 @@ Paddle at constant pace (relies on ideal water and weather conditions) and try t
 
 Moderate changes to technique will require training to develop physiological adaptation. The athlete may need to recruit muscle groups not normally used when paddling or adapt to a different range of motion.
 
-The more efficient technique may initially feel more physically taxing. This is normal since the athlete hasn't had time to acquire fitness to that particular adaption. For this reason, it is not recommended that the athlete adopt moderate-to-major technique changes late in the season (a short period before a target race for example) as this will not immediately improve performance.
+The more efficient technique may initially feel more physically taxing. This is normal since the athlete hasn't had time to achieve fitness specific to that adaption. For this reason, it is not recommended that the athlete adopt moderate-to-major technique changes late in the season (a short period before a target race for example) as this will not immediately improve performance.
