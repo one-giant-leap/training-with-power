@@ -1,6 +1,6 @@
 # Training to improve "4 minute Power"
 
-###Suggested sessions to improve "4 minute Power"
+**Suggested sessions to improve "4 minute Power":**
 
 Efforts of 30 seconds @ Z6
 * 3 minutes rest between efforts
