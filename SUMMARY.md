@@ -16,7 +16,7 @@
    * [Setting Training Zones](setting_training_zones.md)
 * [Training Guide](training_guide.md)
    * [Training to improve 'Endurance'](training_to_improve_endurance.md)
-   * [Training to improve Threshold Power](training_to_improve_threshold_power.md)
+   * [Training to improve "Threshold Power"](training_to_improve_threshold_power.md)
    * [Training to improve "4min Power"](training_to_improve_4min_power.md)
    * [Training to improve "30s/1min Power"](training_to_improve_30s1min_power.md)
    * [International Canoe Federation Training Guidelines](international_canoe_federation_training_guidelines.md)
