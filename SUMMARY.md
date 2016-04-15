@@ -22,4 +22,5 @@
    * [Tracking progress of "Threshold Power"](tracking_progress_of_threshold_power.md)
    * [Power profiling](power_profiling.md)
 * Unlocking Potential
+   * Developing a more efficient stroke
 
