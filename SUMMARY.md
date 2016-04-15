@@ -12,7 +12,6 @@
    * [Power](power.md)
    * [Power Balance](power_balance.md)
    * [Cadence](cadence.md)
-* [How to Train with Power](how_to_train_with_power.md)
 * [Setting Training Zones](setting_training_zones.md)
 * [Training Guide](training_guide.md)
    * [Training to improve 'Endurance'](training_to_improve_endurance.md)
