@@ -1,4 +1,4 @@
-# Heart Rate Monitors
+# Heart rate monitors
 
 Heart rate monitors have been in use for since the mid-1980s. They were one of the first devices that the everyday athlete could use to measure their performance.
 
