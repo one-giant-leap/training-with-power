@@ -1,4 +1,4 @@
-# GPS speed and distance monitor
+# GPS speed and distance monitors
 
 Speed and Distance Monitors are a useful addition to any paddler's training regime. They are helpful in determining pacing and race planning in particular, and the fact that GPS speed data integrates with many tracking apps means it is a great way to log your training history. Keeping a record of training is important for making sure you are meeting your training requirements.
 
