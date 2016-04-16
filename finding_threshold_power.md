@@ -17,4 +17,5 @@ The following test outlines a method that closely evaluates an athlete's Thresho
 
 After performing the effort, calculate the average power over the 20 minute time trial. Then subtract 5% from the average power value. The result is Threshold Power as shown in the equation below:
 
-$$Power_{Threshold} = Power_{Average}*0.95$$
+
+> $$Power_{Threshold} = Power_{Average}*0.95$$
