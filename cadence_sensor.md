@@ -1,4 +1,4 @@
-# Cadence/Stroke-Rate Sensor
+# Cadence sensor
 
 In days gone by the only way to measure your cadence was to start a stopwatch and count the number of strokes performed over a given distance. Technology has since evolved to give us a more efficient means of measuring stroke-rate.
 
