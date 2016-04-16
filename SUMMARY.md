@@ -5,7 +5,7 @@
    * [Heart rate monitors](heart_rate_monitors.md)
    * [GPS speed and distance monitors](gps_speed_and_distance_monitor.md)
    * [Cadence sensors](cadence_sensor.md)
-   * [Power Meters](power_meters.md)
+   * [Power meters](power_meters.md)
 * [Power Meters In-Depth](metric_descriptions.md)
    * [Power](power.md)
    * [Power Balance](power_balance.md)
