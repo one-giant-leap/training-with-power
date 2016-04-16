@@ -6,7 +6,7 @@ The metabolic strain experienced when paddling is dependent upon the athletes in
 
 The following test outlines a method that closely evaluates an athlete's Threshold Power. With a Threshold Power test, we're trying to establish the power number that corresponds to the [lactate threshold](http://en.wikipedia.org/wiki/Anaerobic_exercise) of the paddler. The test involves doing an all-out 20 minute time trial effort.
 
-###The Threshold Power Test
+### The Threshold Power Test
 1. 20 minutes easy warm up
 2. 3 x 1-minute efforts with a minute rest between (80-90 spm)
 3. 5 minutes easy warm up continued
