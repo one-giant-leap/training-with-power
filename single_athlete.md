@@ -1,4 +1,4 @@
-# High Speed Data Analysis of a single athlete
+# High Speed Data analysis of a single athlete
 
 A power meter can typically record Power and Force at 50 times a second or more allowing for in-depth analysis of technique and performance. High Speed Data is the name given to this data. Unlike the once-per-second data displayed in real-time and recorded on an ANT+ display, High Speed Data is recorded and stored on-board the Kayak Power Meter for post analysis.
 
