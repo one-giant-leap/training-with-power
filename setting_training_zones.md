@@ -1,5 +1,4 @@
-# Setting Training Zones
-# Setting Training Zones
+# Setting training zones
 
 With Threshold Power (TP) established, the following zones can be set for power-based training:
 
@@ -13,4 +12,4 @@ With Threshold Power (TP) established, the following zones can be set for power-
 
 With power based training, it is important to keep track of Threshold Power (TP), and make sure it is current. TP changes relatively quickly and expect TP to change about every four to eight weeks as fitness develops. Monitoring TP also provides excellent insight into fitness development.
 
-Refer to the 'Training Guide' section for suggestions on training using the 7 zone power-based training method.
+Refer to the "Training Guide" section for suggestions on training using the 7 zone power-based training method.
