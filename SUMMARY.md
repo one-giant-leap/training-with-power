@@ -33,4 +33,5 @@
        * [Development of a model technique](development_of_a_model_technique.md)
        * ["Stroke time" analysis](stroke_time_analysis.md)
    * [Crew/Team Boat](team_boat.md)
+       * Technique analysis
 
