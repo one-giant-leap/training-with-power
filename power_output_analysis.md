@@ -1,6 +1,6 @@
 # Power output analysis
 
-Overview Power Graph
+### Overview Power Graph
 
 The High Speed Data has been abbreviated into 1Hz (once a second) power data so that the intensity of each athlete can be compared over the duration of the recording.
 
