@@ -36,5 +36,5 @@
        * [Technique analysis](technique_analysis.md)
        * [Stroke timing analysis](stroke_timing_analysis.md)
        * [Stroke-by-stroke timing analysis](stroke-by-stroke_timing_analysis.md)
-       * Power output analysis
+       * [Power output analysis](power_output_analysis.md)
 
