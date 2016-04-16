@@ -1,4 +1,4 @@
-# Power Meters
+# Power meters
 
 Training with _power_ overcomes the weaknesses of the other performance measurement devices. Power meters measure the power-output, force and stroke-rate of a paddler. Power meters are the only devices which provide you with a direct measurement of your energy output. Energy output is the exact thing that governs performance.
 
