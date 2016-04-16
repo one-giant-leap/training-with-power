@@ -35,4 +35,5 @@
    * [Crew/Team Boat](team_boat.md)
        * [Technique analysis](technique_analysis.md)
        * [Stroke timing analysis](stroke_timing_analysis.md)
+       * Stroke-by-stroke timing analysis
 
