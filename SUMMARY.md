@@ -26,7 +26,7 @@
 * Unlocking Potential
    * [Developing a more efficient stroke](developing_a_more_efficient_stroke.md)
    * [Finding the optimum cadence](finding_the_optimum_cadence.md)
-* High Speed Data Analysis (Single Athlete)
+* High Speed Data Analysis
    * [Single Athlete](single_athlete.md)
        * [Left stroke and right stroke analysis](left_stroke_and_right_stroke_analysis.md)
        * [Identifying good and bad technique](identifying_good_and_bad_technique.md)
