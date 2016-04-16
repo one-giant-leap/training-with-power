@@ -1,4 +1,4 @@
-# International Canoe Federation Training Guidelines
+# International Canoe Federation training guidelines
 
 The International Canoe Federation has a number of training guidelines for senior athletes who compete in sprint kayaking discipline.  
 
