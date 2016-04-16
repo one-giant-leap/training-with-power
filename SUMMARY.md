@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Performance Measurement Technology](performance_measurement_technology.md)
    * [Heart rate monitors](heart_rate_monitors.md)
-   * [GPS Speed and Distance Monitor](gps_speed_and_distance_monitor.md)
+   * [GPS speed and distance monitor](gps_speed_and_distance_monitor.md)
    * [Cadence/Stroke-Rate Sensor](cadence_sensor.md)
    * [Power Meters](power_meters.md)
 * [Power Meters In-Depth](metric_descriptions.md)
