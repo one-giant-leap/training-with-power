@@ -1,6 +1,6 @@
 # Stroke timing analysis
 
-Time representative curves
+### Time representative curves
 
 This graph is designed for the analysis of stoke timing. The average force and power curves are shown plotted on a time scale that shows the typical (averaged) stroke timing.
 
