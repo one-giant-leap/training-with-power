@@ -1,6 +1,6 @@
 # Technique analysis
 
-###Average Force and Power Curves
+### Average Force and Power Curves
 
 The average force and power curves from each athlete are plotted together and aligned so that all strokes, from all athletes, begin at t=0. The graphs below show example K2 data.
 
