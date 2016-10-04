@@ -14,7 +14,3 @@ When it comes to the 'ideal profile', it's generally agreed that the more square
 
 From the many profiles I have seen, I can say that the profile image attached is typical of a good paddler. But before you go out and change the way you paddle to exactly mimic this image, you must know that there is noticeable variation in the profiles between athletes, even among the 'good' paddlers. The common factor relating these 'good' paddlers is the magnitude of their force and power. As long as you are trying to broaden your profile (think maximise the area under the curve) without applying a greater level of force, you're on your way to a more efficient stroke. I'm happy to take a look at some of your profiles and give an opinion if you'd like.
 
-
-### Identify technique changes due to fatigue
-
-
