@@ -10,7 +10,7 @@ When it comes to the 'ideal profile', it's generally agreed that the more the pr
 
 By minimising force peaks and instead developing force evenly over the stroke, the stroke becomes more efficient and is less taxing on the paddler. Sharp peaks in force do little to speed up the boat (the short duration is insufficient to counteract the mass-inertia of the boat and athlete), but these force peaks contribute to muscular fatigue.
 
-These are a number of the things to look for when analysing a profile:
+These are a number of the things to look for when analyzing a profile:
 
 * *A steep initial gradient.*
 >This represents immediate connection.
