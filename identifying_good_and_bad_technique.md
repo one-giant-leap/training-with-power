@@ -4,6 +4,6 @@ The shape of the curves can be analyzed to evaluate technique. Sharp peaks in fo
 
 By comparing an athlete's signature to a model technique, areas of weakness can be identified. For example, comparison might reveal an athlete is generating a comparatively low amount of power at the beginning of their stroke. The athlete would then focus on developing a more powerful catch. High Speed Data analysis allows the athlete to track the development of their signature as they implement technique changes.
 
-### Technique changes due to fatigue
+### Identify technique changes due to fatigue
 
 High Speed Data analysis of long duration recordings can help identify technique changes due to fatigue. For example, an athlete may find that their left stroke signature changes significantly as fatigue sets in, developing some non-ideal characteristics. Once these effects are identified, specific training can be prescribed to minimize the effect. At the very least, learning of such tendencies will help the athlete focus on maintaining form during situations when the weakness can occur.
