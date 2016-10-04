@@ -24,6 +24,8 @@ The stroke profile shown below is typical of a good paddler. With this being sai
 
 The common factor relating 'good' paddlers is the magnitude of their force and power. As long as the athlete is trying to broaden their profile (in other words, maximizing the area under the curve) without applying a greater level of force, the athlete is on their way to a more efficient stroke.
 
+---
+
 ![Average Stroke Power](/assets/average-stroke-power.png)
 
 ![Average Stroke Pushing Force](/assets/average-stroke-pushing-force.png)
