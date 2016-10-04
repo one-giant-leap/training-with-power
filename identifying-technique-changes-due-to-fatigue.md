@@ -1,1 +1,3 @@
+# Identifying good and bad technique
+
 High Speed Data analysis of long duration recordings can help identify technique changes due to fatigue. For example, an athlete may find that their left stroke signature changes significantly as fatigue sets in, developing some non-ideal characteristics. Once these effects are identified, specific training can be prescribed to minimize the effect. At the very least, learning of such tendencies will help the athlete focus on maintaining form during situations when the weakness can occur.
