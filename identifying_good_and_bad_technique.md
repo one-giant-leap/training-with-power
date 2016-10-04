@@ -1,6 +1,6 @@
 # Identifying good and bad technique
 
-The shape of the stroke profiles can be analyzed to evaluate technique.
+The shape of an athlete's stroke profile can be analyzed to evaluate their technique.
 
 By comparing an athlete's stroke profile to a model technique, areas of weakness can be identified.
 
