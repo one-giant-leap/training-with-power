@@ -20,7 +20,9 @@ These are a number of the things to look for when analysing a profile:
 
 * *A sudden drop of power and force as the paddle exits.*
 
-From the many profiles I have seen, I can say that the profile image attached is typical of a good paddler. But before you go out and change the way you paddle to exactly mimic this image, you must know that there is noticeable variation in the profiles between athletes, even among the 'good' paddlers. The common factor relating these 'good' paddlers is the magnitude of their force and power. As long as you are trying to broaden your profile (think maximise the area under the curve) without applying a greater level of force, you're on your way to a more efficient stroke.
+The stroke profile shown below is typical of a good paddler. With this being said, there is noticeable variation in the profiles between athletes, even among 'good' paddlers. Please keep this in mind before changing the way an athlete paddles in an attempt to mimic the stroke profile shown below.
+
+The common factor relating 'good' paddlers is the magnitude of their force and power. As long as the athlete is trying to broaden their profile (in other words, maximizing the area under the curve) without applying a greater level of force, the athlete is on their way to a more efficient stroke.
 
 ![Average Stroke Power](/assets/average-stroke-power.png)
 
