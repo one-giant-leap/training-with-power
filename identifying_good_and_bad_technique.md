@@ -1,8 +1,6 @@
 # Identifying good and bad technique
 
-The shape of an athlete's stroke profile can be analyzed to evaluate their technique.
-
-By comparing an athlete's stroke profile to a model technique, areas of weakness can be identified.
+The shape of an athlete's stroke profile can be analyzed to evaluate their technique. By comparing an athlete's stroke profile to a model technique, areas of weakness can be identified.
 
 For example, a comparison might reveal an athlete is generating a comparatively low amount of power at the beginning of their stroke. The athlete should then focus on developing a more powerful catch. High Speed Data analysis allows the athlete to track the development of their stroke profile as they implement technique changes.
 
