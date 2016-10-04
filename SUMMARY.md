@@ -25,7 +25,7 @@
     * [Single Athlete](single_athlete.md)
         * [Left stroke and right stroke analysis](left_stroke_and_right_stroke_analysis.md)
         * [Identifying good and bad technique](identifying_good_and_bad_technique.md)
-        * Identify technique changes due to fatigue
+        * [Identify technique changes due to fatigue](identify-technique-changes-due-to-fatigue.md)
         * [Development of a model technique](development_of_a_model_technique.md)
         * ["Stroke time" analysis](stroke_time_analysis.md)
     * [Crew\/Team Boat](team_boat.md)
