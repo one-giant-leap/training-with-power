@@ -28,6 +28,10 @@ The common factor relating 'good' paddlers is the magnitude of their force and p
 
 ![Average Stroke Power](/assets/average-stroke-power.png)
 
+---
+
 ![Average Stroke Pushing Force](/assets/average-stroke-pushing-force.png)
+
+---
 
 ![Average Stroke Pulling Force](/assets/average-stroke-pulling-force.png)
