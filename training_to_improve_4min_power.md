@@ -1,21 +1,21 @@
-# Training to improve "4 minute Power"
+# Training to improve _4 minute Power_
 
-**Suggested sessions to improve "4 minute Power":**
+**Suggested sessions to improve _4 minute Power_:**
 
-Efforts of 30 seconds @ Z6
+Efforts of 30 seconds @ Zone 6
 * 3 minutes rest between efforts
 * 4 efforts per session
 
-Efforts of 4 minutes @ Z5
+Efforts of 4 minutes @ Zone 5
 * 2 minutes rest between efforts
 * 8 efforts per session
 
-Efforts of 2 minutes @ Z6
+Efforts of 2 minutes @ Zone 6
 * 4 minutes rest between efforts
 * 6 efforts per session
 
 ---
 
-Sustainable improvements of "4 minute power" output will come from improved aerobic fitness. The basis for improved aerobic fitness is endurance and threshold power training.
+Sustainable improvements of _4 minute power_ output will come from improved aerobic fitness. The basis for improved aerobic fitness is endurance and threshold power training.
 
-Athletes that specifically target events with a similar duration (e.g. 1000m) can improve "4 minute power" with the speed endurance and anaerobic intervals mentioned above.
+Athletes that specifically target events with a similar duration (e.g. 1000m) can improve _4 minute power_s with the speed endurance and anaerobic intervals mentioned above.

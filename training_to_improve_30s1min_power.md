@@ -1,6 +1,6 @@
-# Training to improve "30 second/1 minute Power"
+# Training to improve _30 second/1 minute Power_
 
-**Suggested sessions to improve "30 second/1 minute Power":**
+**Suggested sessions to improve _30 second/1 minute Power_:**
 
 Efforts of 20 seconds @ Zone 7
 * 40 seconds rest between efforts
