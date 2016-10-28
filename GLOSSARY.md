@@ -4,9 +4,9 @@
 
 strokes per minute
 
-## TP
+## FTP
 
-Threshold Power represents the exercise intensity at which lactate begins to accumulate in a person's blood (i.e. lactate threshold)
+Functional Threshold Power represents the exercise intensity at which lactate begins to accumulate in a person's blood (i.e. lactate threshold)
 
 ## TT
 
