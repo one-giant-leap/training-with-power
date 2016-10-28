@@ -7,7 +7,7 @@
     * [Cadence](cadence.md)
     * [Force](force.md)
 * [Control Training Intensities](control_training_intensities.md)
-    * [Finding "Threshold Power"](finding_threshold_power.md)
+    * [Finding Functional Threshold Power](finding_threshold_power.md)
     * [Setting training zones](setting_training_zones.md)
 * [Training Guide](training_guide.md)
     * [Training to improve "Endurance"](training_to_improve_endurance.md)
