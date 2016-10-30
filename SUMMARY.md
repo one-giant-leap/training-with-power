@@ -16,7 +16,7 @@
     * [Training to improve "30s\/1min Power"](training_to_improve_30s1min_power.md)
     * [International Canoe Federation training guidelines](international_canoe_federation_training_guidelines.md)
 * [Fitness Tracking](fitness_tracking.md)
-    * [Tracking progress of "Threshold Power"](tracking_progress_of_threshold_power.md)
+    * [Tracking progress of FTP](tracking_progress_of_threshold_power.md)
     * [Power profiling](power_profiling.md)
 * [Unlocking Potential](unlocking_potential.md)
     * [Developing a more efficient stroke](developing_a_more_efficient_stroke.md)
