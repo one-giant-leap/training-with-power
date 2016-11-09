@@ -14,4 +14,4 @@ Efforts of 6 minutes @ Zone 4 (**high**) (100%-105% of FTP)
 * Maximum of 4 efforts per session
 * Maximum of 12 efforts per week
 
-These sessions specifically target Functional Threshold Power development by raising the intensity to near threshold. Keep in mind that endurance targeted sessions can also elicit improvements in Functional sThreshold Power.
+These sessions specifically target Functional Threshold Power development by raising the intensity to near threshold. Keep in mind that endurance targeted sessions can also elicit improvements in Functional Threshold Power.
