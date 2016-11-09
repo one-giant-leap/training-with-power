@@ -1,4 +1,4 @@
-# Training to improve _Endurance_s
+# Training to improve _Endurance_
 
 **Suggested sessions to improve _Endurance_:**
 
