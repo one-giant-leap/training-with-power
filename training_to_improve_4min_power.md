@@ -18,4 +18,4 @@ Efforts of 2 minutes @ Zone 6
 
 Sustainable improvements of _4 minute power_ output will come from improved aerobic fitness. The basis for improved aerobic fitness is endurance and threshold power training.
 
-Athletes that specifically target events with a similar duration (e.g. 1000m) can improve _4 minute power_s with the speed endurance and anaerobic intervals mentioned above.
+Athletes that specifically target events with a similar duration (e.g. 1000m) can improve _4 minute power_ with the speed endurance and anaerobic intervals mentioned above.
