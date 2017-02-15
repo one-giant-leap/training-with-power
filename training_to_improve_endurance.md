@@ -1,6 +1,6 @@
-# Training to improve _Endurance_
+# Training to improve Endurance
 
-**Suggested sessions to improve _Endurance_:**
+**Suggested sessions to improve Endurance:**
 
 Efforts of 90 minutes @ Zone 1 / Zone 2
 * Maximum of 2 efforts per session
