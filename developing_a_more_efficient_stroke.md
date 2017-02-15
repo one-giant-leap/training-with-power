@@ -6,14 +6,19 @@ The sole metric available to paddlers to gauge the rate of energy transfer to th
 
 ---
 
-###Method
+![](/assets/efficient-technique.png)
+
+
+###Method 1. Constant Power / Maximize Boat Speed
 
 Paddle at a steady power output. Choose Functional Threshold Power (FTP) for distance paddlers or race power output for sprint paddlers.
 Refine technique to maximize speed, but maintain the same level of power output. This will represent a technique with greater efficiency since more of the athlete's energy output is converted into motion.
 
-###Alternative Method
+###Method 2. Constant Boat Speed / Minimize Power
 
 Paddle at constant pace (relies on ideal water and weather conditions) and try to develop a technique that minimizes your power output. This new technique has greater efficiency since it requires less energy output from the athlete in order to maintain the pace.
+
+
 
 ---
 
