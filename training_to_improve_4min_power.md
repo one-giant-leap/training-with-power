@@ -1,6 +1,6 @@
-# Training to improve _4 minute Power_
+# Training to improve 4 minute Power
 
-**Suggested sessions to improve _4 minute Power_:**
+**Suggested sessions to improve 4 minute Power:**
 
 Efforts of 30 seconds @ Zone 6
 * 3 minutes rest between efforts
