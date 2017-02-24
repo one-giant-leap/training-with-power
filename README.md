@@ -12,4 +12,6 @@ Racing 'smarter' is about pacing a perfect race by understanding the physiologic
 Paddling more efficiently is about developing a technique that converts as much of your energy output as possible into forward boat motion.
 
 #### How do you achieve these objectives?
-It starts with being able to accurately measure and track your energy output - a direct measurement of intensity.
+It starts with being able to accurately measure and track your energy output - a direct measurement of intensity. You can measure and track your energy output with a power meter.
+
+This guide will provide you with everything you need to know about training with power, and how using a power meter as a training tool can help you achieve the results you want on the water.
