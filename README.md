@@ -1,11 +1,15 @@
-# Do you want to train more effectively and paddle more efficiently?
+# Do you want to boost your performance by training and racing smarter and paddling more efficiently
 
 If you're reading this guide then we can assume you probably do.
 
-The challenge is - how do you go about achieving this?
+####Get more out of every training session
+Training 'smarter' is about spending your energy wisely by training at the right intensity and tracking your fitness to ensure that your training is producing results.
 
-The science is simple - the more power you output, the faster the boat *can* go. The challenge is to increase your fitness and strength to improve your power output and to convert as much of that energy into forward motion.
+####Perform to the best of your abilities
+Racing 'smarter' is about pacing a perfect race by understanding the physiological demands of the event and knowing how to best spend your energy.
 
-Achieving these objectives starts with being able to accurately measure and track your energy output. Unlike heart rate monitors, which measure the body’s response to intensity, or GPS speed measuring devices and stroke rate sensors, which are affected by environmental conditions, a **power meter** provides you with a direct measurement of your energy output.
+####Go further or faster with the same effort
+Paddling more efficiently is about developing a technique that converts as much of your energy output as possible into forward boat motion.
 
-This guide will provide you with everything you need to know about training with power, and how using a power meter as a training tool can help you achieve the results you want on the water.
+#### How do you achieve these objectives?
+It starts with being able to accurately measure and track your energy output - a direct measurement of intensity.
