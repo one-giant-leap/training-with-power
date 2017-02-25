@@ -25,7 +25,6 @@
   * [Identifying good and bad technique](identifying_good_and_bad_technique.md)
   * [Identifying technique changes due to fatigue](identifying-technique-changes-due-to-fatigue.md)
   * [Development of a model technique](development_of_a_model_technique.md)
-  * ["Stroke time" analysis](stroke_time_analysis.md)
   * [Crew/Team Boat](team_boat.md)
     * [Technique analysis](technique_analysis.md)
     * [Stroke timing analysis](stroke_timing_analysis.md)
