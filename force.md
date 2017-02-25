@@ -1,6 +1,6 @@
 # Force
 
-The force values are delivered in two data streams; pushing hand force and pulling hand force.
+The force values are delivered in two data streams; top hand force and bottom hand force.
 
 These values represent the force applied by the pushing hand (pushing during the stroke) and the pulling hand (pulling during the stroke). For example, during the stroke that occurs on the left side of the boat, the pushing hand force represents the right hand, and the pulling hand force represents left hand.
 
