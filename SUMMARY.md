@@ -9,7 +9,7 @@
 * Measure Training Load
 * [Paddling Intensity](monitor-training-intensity.md)
   * [Functional Threshold Power](finding_threshold_power.md)
-  * [Power Zones](power-zones.md)
+  * [Power Zones](power_zones.md)
 * [Technique Efficiency](technique-efficiency.md)
   * [Developing a more efficient stroke](developing_a_more_efficient_stroke.md)
 * [Training Guide](training_guide.md)
