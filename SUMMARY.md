@@ -6,8 +6,8 @@
   * [Power Balance](power_balance.md)
   * [Cadence](cadence.md)
   * [Force](force.md)
-  * Monitor Training Intensity
-  * Measure Training Load
+* Monitor Training Intensity
+* Measure Training Load
 * [Technique Efficiency](technique-efficiency.md)
   * [Developing a more efficient stroke](developing_a_more_efficient_stroke.md)
 * [Training Guide](training_guide.md)
