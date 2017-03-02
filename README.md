@@ -1,4 +1,6 @@
-# Do you want to boost your performance by training and racing smarter and paddling more efficiently?
+# Training and racing with power for paddlesports
+
+### Do you want to boost your performance by training and racing smarter and paddling more efficiently?
 
 If you're reading this guide then we can assume you probably do.
 
