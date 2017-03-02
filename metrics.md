@@ -1,0 +1,4 @@
+## Average Power
+
+
+## Normalized Power
