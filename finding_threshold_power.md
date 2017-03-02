@@ -1,4 +1,4 @@
-# Finding Functional Threshold Power
+# Functional Threshold Power
 
 The concept of Functional Threshold Power (FTP) forms the basis for power based training. Training zones are set relative to FTP. Functional Threshold Power output represents the exercise intensity at which lactate begins to accumulate in a person's blood (i.e. lactate threshold).
 
