@@ -22,13 +22,4 @@
   * [Tracking progress of FTP](tracking_progress_of_threshold_power.md)
   * [Power profiling](power_profiling.md)
 * [Finding the optimum cadence](finding_the_optimum_cadence.md)
-* [High Speed Data Analysis](high_speed_data_analysis.md)
-  * [Identifying good and bad technique](identifying_good_and_bad_technique.md)
-  * [Identifying technique changes due to fatigue](identifying-technique-changes-due-to-fatigue.md)
-  * [Development of a model technique](development_of_a_model_technique.md)
-  * [Crew/Team Boat](team_boat.md)
-    * [Technique analysis](technique_analysis.md)
-    * [Stroke timing analysis](stroke_timing_analysis.md)
-    * [Stroke-by-stroke timing analysis](stroke-by-stroke_timing_analysis.md)
-    * [Power output analysis](power_output_analysis.md)
 
