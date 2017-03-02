@@ -7,7 +7,7 @@
   * [Cadence](cadence.md)
   * [Force](force.md)
 * Measure Training Load
-* [Paddling Intensity](monitor-training-intensity.md)
+* [Paddling Intensity](paddling-intensity.md)
   * [Functional Threshold Power](finding_threshold_power.md)
   * [Power Zones](power-zones.md)
 * [Technique Efficiency](technique-efficiency.md)
