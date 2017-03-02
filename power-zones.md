@@ -1,4 +1,4 @@
-# Setting training zones
+# Power Zones
 
 With Functional Threshold Power (FTP) established, the following zones can be set for power-based training:
 
