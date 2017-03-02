@@ -6,6 +6,10 @@
   * [Power Balance](power_balance.md)
   * [Cadence](cadence.md)
   * [Force](force.md)
+  * Monitor Training Intensity
+  * Measure Training Load
+* [Technique Efficiency](technique-efficiency.md)
+  * [Developing a more efficient stroke](developing_a_more_efficient_stroke.md)
 * [Training Guide](training_guide.md)
   * [Finding Functional Threshold Power](finding_threshold_power.md)
   * [Setting training zones](setting_training_zones.md)
@@ -17,8 +21,6 @@
 * [Fitness Tracking](fitness_tracking.md)
   * [Tracking progress of FTP](tracking_progress_of_threshold_power.md)
   * [Power profiling](power_profiling.md)
-* [Technique Efficiency](technique-efficiency.md)
-  * [Developing a more efficient stroke](developing_a_more_efficient_stroke.md)
 * [Finding the optimum cadence](finding_the_optimum_cadence.md)
 * [High Speed Data Analysis](high_speed_data_analysis.md)
   * [Left stroke and right stroke analysis](left_stroke_and_right_stroke_analysis.md)
