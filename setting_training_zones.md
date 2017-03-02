@@ -11,5 +11,3 @@ With Functional Threshold Power (FTP) established, the following zones can be se
 * **Zone 7:** Neuromuscular Power = maximum effort
 
 With power based training, it is important to keep track of Functional Threshold Power (FTP), and make sure it is current. FTP changes relatively quickly and expect FTP to change about every four to eight weeks as fitness develops. Monitoring FTP also provides excellent insight into fitness development.
-
-Refer to the "Training Guide" section for suggestions on training using the 7 zone power-based training method.
