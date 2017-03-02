@@ -1,5 +1,3 @@
-# Training and racing with a power meter for paddlesports
-
 ### Do you want to boost your performance by training and racing smarter and paddling more efficiently?
 
 If you're reading this guide then we can assume you probably do.
