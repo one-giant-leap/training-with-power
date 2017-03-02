@@ -6,7 +6,6 @@
   * [Power Balance](power_balance.md)
   * [Cadence](cadence.md)
   * [Force](force.md)
-  * [Metrics](metrics.md)
 * [Paddling Intensity](paddling-intensity.md)
   * [Functional Threshold Power](finding_threshold_power.md)
   * [Power Zones](power-zones.md)
