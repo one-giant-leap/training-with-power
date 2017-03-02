@@ -17,7 +17,7 @@
 * [Fitness Tracking](fitness_tracking.md)
   * [Tracking progress of FTP](tracking_progress_of_threshold_power.md)
   * [Power profiling](power_profiling.md)
-* Technique Efficiency
+* [Technique Efficiency](technique-efficiency.md)
   * [Developing a more efficient stroke](developing_a_more_efficient_stroke.md)
 * [Finding the optimum cadence](finding_the_optimum_cadence.md)
 * [High Speed Data Analysis](high_speed_data_analysis.md)
