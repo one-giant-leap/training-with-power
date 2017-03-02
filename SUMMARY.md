@@ -23,7 +23,6 @@
   * [Power profiling](power_profiling.md)
 * [Finding the optimum cadence](finding_the_optimum_cadence.md)
 * [High Speed Data Analysis](high_speed_data_analysis.md)
-
   * [Identifying good and bad technique](identifying_good_and_bad_technique.md)
   * [Identifying technique changes due to fatigue](identifying-technique-changes-due-to-fatigue.md)
   * [Development of a model technique](development_of_a_model_technique.md)
