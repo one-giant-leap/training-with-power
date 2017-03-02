@@ -1,4 +1,4 @@
-# Training and racing with power for paddlesports
+# TRAINING AND RACING WITH A POWER METER FOR PADDLESPORTS
 
 ---
 ### Do you want to boost your performance by training and racing smarter and paddling more efficiently?
